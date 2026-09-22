@@ -1,0 +1,7 @@
+venv/
+data/raw/
+data/processed/
+data/ipl.db
+pipeline.log
+output.txt
+__pycache__/
