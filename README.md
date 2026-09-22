@@ -41,7 +41,7 @@ python hypothesis_test.py
 5. Open `IPL.pbix` in Power BI Desktop to view the dashboard
 
 ## Dashboard
-*(Add a screenshot of your Power BI dashboard here once you export one)*
+![IPL Dashboard](dashboard.png)
 
 ## Data Source
 [Kaggle IPL Dataset](https://www.kaggle.com/) (search "IPL dataset matches deliveries")
